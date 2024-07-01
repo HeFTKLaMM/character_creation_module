@@ -32,7 +32,7 @@ def special(char_name: str, char_class: str):
         return (f'{char_name} применил специальное умение «Защита {10 + 30}»')
 
 
-def start_training(char_name: str, char_class: str):
+def start_training(char_name: str, char_class: str) -> str:
     if char_class == 'warrior':
         print(f'{char_name}, ты Воитель — отличный боец ближнего боя.')
     if char_class == 'mage':

@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 
-test_module.py
+test.py
 .flake8

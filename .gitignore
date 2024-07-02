@@ -130,4 +130,5 @@ dmypy.json
 
 
 test.py
+test2.py
 .flake8

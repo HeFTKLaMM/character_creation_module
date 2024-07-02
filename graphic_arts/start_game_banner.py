@@ -1,9 +1,8 @@
 from asciimatics.renderers import FigletText, Fire  # type: ignore
 from asciimatics.renderers import SpeechBubble  # type: ignore
-from asciimatics.scene import Scene # type: ignore
+from asciimatics.scene import Scene  # type: ignore
 from asciimatics.screen import Screen
 from asciimatics.effects import Print
-from asciimatics.exceptions import ResizeScreenError
 from pyfiglet import Figlet
 import sys
 
